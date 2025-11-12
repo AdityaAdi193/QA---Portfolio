@@ -44,7 +44,14 @@ Driven by a passion for **ensuring product stability, reliability, and performan
 #### 🧩 Methodologies & Tools  
 - Agile / Scrum  
 - STLC / SDLC  
-- Jira  
+- Jira
+
+#### AI Tools
+  - Gen AI
+  - N8N (AI Tool)
+
+#### Frontend
+   - HTML, CSS, React JS 
 
 #### 💬 Soft Skills  
 - Communication | Team Collaboration | Problem-Solving
