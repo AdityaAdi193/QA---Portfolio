@@ -29,6 +29,7 @@ Driven by a passion for **ensuring product stability, reliability, and performan
 #### 🤖 Automation Testing  
 - Selenium WebDriver (Java)  
 - Playwright (JavaScript / TypeScript)
+- Cypress JavaScript 
 
 #### ⚙️ API Testing  
 - Postman  
@@ -50,8 +51,8 @@ Driven by a passion for **ensuring product stability, reliability, and performan
   - Gen AI
   - N8N (AI Tool)
 
-#### Frontend
-   - HTML, CSS, React JS 
+#### Programming
+   - Python, Core java 
 
 #### 💬 Soft Skills  
 - Communication | Team Collaboration | Problem-Solving
